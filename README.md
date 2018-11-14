@@ -6,6 +6,10 @@ Added format for application of Indeed API(just need to implement scripts allowi
 Added java script impmentation of indeed api with xml
 
 TODO:
+XML interaction
+
 Implement indeed api build scripts
+
 Receive indeed api key
-test scripts.
+
+test scripts
