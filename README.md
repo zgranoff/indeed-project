@@ -16,3 +16,7 @@ Implement indeed api build scripts
 Receive indeed api key
 
 Test scripts
+
+Clean user input
+
+Store user input read in from prompts
