@@ -5,7 +5,7 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class test {
+public class indeed {
 
 	private static final String USER_AGENT = "Mozilla/5.0";
 
