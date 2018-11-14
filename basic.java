@@ -57,7 +57,7 @@ public class basic
     System.out.println("Enter User Browser");
     String javaUserAgent = inp.readLine();
     //The IP number of the end-user to whom the job results will be displayed. This field is required.
-    System.out.println("Enter User IP Adderss");
+    System.out.println("Enter User IP Adderess");
     String javaUserIP = inp.readLine();
 
     /*
