@@ -1,5 +1,5 @@
 # indeed-project
-Utilizing the Indeed API to modify the website with greater capabilities 
+Utilizing the Indeed API to modify the website with greater capabilities
 
 Added format for application of Indeed API(just need to implement scripts allowing interaction with api)
 
