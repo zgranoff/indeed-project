@@ -5,6 +5,9 @@ Contact with Indeed and research into Indeed api
 Looked into using different packages to interact with api (unirest)
 Looked into using different sdks to interact with api (Indeed Parser, indeed.java)
 Creation of the basic.java script with allows interaction but no results
+Added XML processing script which would be implemented after indeed api results output
+Denied API by both Indeed and Monster again.
+More research into get request processing and the types of output that the indeed api could print
 
 Looked into different api platforms that contained potential built in implementation of the api
 https://rapidapi.com/indeed/api/indeed
